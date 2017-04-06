@@ -1,0 +1,23 @@
+如何开发USB功能?
+解决方案：
+1, 设置波特率为 115200.
+2, 尝试端口从 1 to 9, 执行函数 rf_init_com(port,baud) 如果返回成功则说明这个端口就是读卡器连接的对应USB口，此时开始建立了通信连接，可以顺利实现USB通信了。如果连接不成功则可能存在以下几种情况：
+1）没有安装驱动或者驱动安装错误；
+2）存在相同的USB驱动端口---解决方法：更改USB的序列号后再次连接；
+3）USB连接存在物理故障或者没有连接。
+
+以下是程序例子：
+
+baud:=115200;
+ for port:=1 to 9 do begin   
+i:=rf_init_com(port,baud);
+    if(i=0)then
+    begin        
+ memoinfo.Lines.add('Connecting successful!');
+       i:=rf_beep(0,$20);  //beep
+ if(port>100)then
+     begin
+       memoinfo.Lines.add('Connecting failure!');
+end;
+end;
+

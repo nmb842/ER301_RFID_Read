@@ -1,0 +1,20 @@
+How to use USB connection?
+Solution: 
+1, setting the baud as 115200.
+2, try the port from 1 to 9, if rf_init_com(port,baud) return success the you can continue.
+
+Below is some code example:
+
+baud:=115200;
+ for port:=1 to 9 do begin   
+i:=rf_init_com(port,baud);
+    if(i=0)then
+    begin        
+ memoinfo.Lines.add('Connecting successful!');
+       i:=rf_beep(0,$20);  //beep
+ if(port>100)then
+     begin
+       memoinfo.Lines.add('Connecting failure!');
+end;
+end;
+

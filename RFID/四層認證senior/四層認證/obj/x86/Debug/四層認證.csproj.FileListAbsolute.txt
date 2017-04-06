@@ -1,0 +1,45 @@
+C:\Users\use\documents\visual studio 2010\Projects\四層認證\四層認證\bin\Debug\四層認證.exe
+C:\Users\use\documents\visual studio 2010\Projects\四層認證\四層認證\bin\Debug\四層認證.pdb
+C:\Users\use\documents\visual studio 2010\Projects\四層認證\四層認證\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\use\documents\visual studio 2010\Projects\四層認證\四層認證\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\use\documents\visual studio 2010\Projects\四層認證\四層認證\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\use\documents\visual studio 2010\Projects\四層認證\四層認證\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\use\documents\visual studio 2010\Projects\四層認證\四層認證\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\use\documents\visual studio 2010\Projects\四層認證\四層認證\obj\x86\Debug\四層認證.exe
+C:\Users\use\documents\visual studio 2010\Projects\四層認證\四層認證\obj\x86\Debug\四層認證.pdb
+D:\DATA\102上_基本通訊實習_進修學院子三甲上課資料\第13週\四層認證\四層認證\obj\x86\Debug\四層認證.exe
+D:\DATA\102上_基本通訊實習_進修學院子三甲上課資料\第13週\四層認證\四層認證\obj\x86\Debug\四層認證.pdb
+D:\DATA\102上_基本通訊實習_進修學院子三甲上課資料\第13週\四層認證\四層認證\bin\Debug\四層認證.exe
+D:\DATA\102上_基本通訊實習_進修學院子三甲上課資料\第13週\四層認證\四層認證\bin\Debug\四層認證.pdb
+D:\DATA\102上_基本通訊實習_進修學院子三甲上課資料\第13週\四層認證\四層認證\obj\x86\Debug\四層認證.csprojResolveAssemblyReference.cache
+D:\DATA\102上_基本通訊實習_進修學院子三甲上課資料\第13週\四層認證\四層認證\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\DATA\102上_基本通訊實習_進修學院子三甲上課資料\第13週\四層認證\四層認證\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\DATA\102上_基本通訊實習_進修學院子三甲上課資料\第13週\四層認證\四層認證\obj\x86\Debug\四層認證.csproj.GenerateResource.Cache
+D:\DATA\課程\(C#)102上_基本通訊實習_進修學院子三甲上課資料\第13週\四層認證\四層認證\obj\x86\Debug\四層認證.exe
+D:\DATA\課程\(C#)102上_基本通訊實習_進修學院子三甲上課資料\第13週\四層認證\四層認證\obj\x86\Debug\四層認證.pdb
+D:\DATA\課程\(C#)102上_基本通訊實習_進修學院子三甲上課資料\第13週\四層認證\四層認證\bin\Debug\四層認證.exe
+D:\DATA\課程\(C#)102上_基本通訊實習_進修學院子三甲上課資料\第13週\四層認證\四層認證\bin\Debug\四層認證.pdb
+D:\DATA\課程\(C#)102上_基本通訊實習_進修學院子三甲上課資料\第13週\四層認證\四層認證\obj\x86\Debug\四層認證.csprojResolveAssemblyReference.cache
+D:\DATA\課程\(C#)102上_基本通訊實習_進修學院子三甲上課資料\第13週\四層認證\四層認證\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\DATA\課程\(C#)102上_基本通訊實習_進修學院子三甲上課資料\第13週\四層認證\四層認證\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\DATA\課程\(C#)102上_基本通訊實習_進修學院子三甲上課資料\第13週\四層認證\四層認證\obj\x86\Debug\四層認證.csproj.GenerateResource.Cache
+D:\DATA\課程\senior\(C#)102上_基本通訊實習_進修學院子三甲上課資料\第13週\四層認證\四層認證\obj\x86\Debug\四層認證.exe
+D:\DATA\課程\senior\(C#)102上_基本通訊實習_進修學院子三甲上課資料\第13週\四層認證\四層認證\obj\x86\Debug\四層認證.pdb
+D:\DATA\課程\senior\(C#)102上_基本通訊實習_進修學院子三甲上課資料\第13週\四層認證\四層認證\bin\Debug\四層認證.exe
+D:\DATA\課程\senior\(C#)102上_基本通訊實習_進修學院子三甲上課資料\第13週\四層認證\四層認證\bin\Debug\四層認證.pdb
+D:\DATA\課程\senior\(C#)102上_基本通訊實習_進修學院子三甲上課資料\第13週\四層認證\四層認證\obj\x86\Debug\四層認證.csprojResolveAssemblyReference.cache
+D:\DATA\課程\senior\(C#)102上_基本通訊實習_進修學院子三甲上課資料\第13週\四層認證\四層認證\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\DATA\課程\senior\(C#)102上_基本通訊實習_進修學院子三甲上課資料\第13週\四層認證\四層認證\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\DATA\課程\senior\(C#)102上_基本通訊實習_進修學院子三甲上課資料\第13週\四層認證\四層認證\obj\x86\Debug\四層認證.csproj.GenerateResource.Cache
+D:\DATA\課程\103下\數據傳輸實務\上課資料\第8週\四層認證senior\四層認證\obj\x86\Debug\四層認證.exe
+D:\DATA\課程\103下\數據傳輸實務\上課資料\第8週\四層認證senior\四層認證\obj\x86\Debug\四層認證.pdb
+C:\Users\YuFan\Desktop\上課資料\第8週\RFID\四層認證senior\四層認證\obj\x86\Debug\四層認證.exe
+C:\Users\YuFan\Desktop\上課資料\第8週\RFID\四層認證senior\四層認證\obj\x86\Debug\四層認證.pdb
+C:\Users\YuFan\Desktop\上課資料\第8週\RFID\四層認證senior\四層認證\bin\Debug\四層認證.exe
+C:\Users\YuFan\Desktop\上課資料\第8週\RFID\四層認證senior\四層認證\bin\Debug\四層認證.pdb
+C:\Users\YuFan\Desktop\上課資料\第8週\RFID\四層認證senior\四層認證\obj\x86\Debug\四層認證.csprojResolveAssemblyReference.cache
+C:\Users\YuFan\Desktop\上課資料\第8週\RFID\四層認證senior\四層認證\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\YuFan\Desktop\上課資料\第8週\RFID\四層認證senior\四層認證\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\YuFan\Desktop\上課資料\第8週\RFID\四層認證senior\四層認證\obj\x86\Debug\四層認證.csproj.GenerateResource.Cache
+C:\Users\YuFan\Google 雲端硬碟\105上_RFID通訊實務\上課資料\第6週\RFID\四層認證senior\四層認證\obj\x86\Debug\四層認證.exe
+C:\Users\YuFan\Google 雲端硬碟\105上_RFID通訊實務\上課資料\第6週\RFID\四層認證senior\四層認證\obj\x86\Debug\四層認證.pdb

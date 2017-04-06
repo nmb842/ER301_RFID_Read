@@ -1,0 +1,16 @@
+D:\DATA\102上_基本通訊實習_進修學院子三甲上課資料\第13週\ER301_SDK中文版\例程源码\WIN64 EXAMPLES\Sample code\C#\Mifare1K\obj\x86\Debug\Mifare1K.exe
+D:\DATA\102上_基本通訊實習_進修學院子三甲上課資料\第13週\ER301_SDK中文版\例程源码\WIN64 EXAMPLES\Sample code\C#\Mifare1K\obj\x86\Debug\Mifare1K.pdb
+D:\DATA\102上_基本通訊實習_進修學院子三甲上課資料\第13週\ER301_SDK中文版\例程源码\WIN64 EXAMPLES\Sample code\C#\Mifare1K\bin\x86\Debug\Mifare1K.exe
+D:\DATA\102上_基本通訊實習_進修學院子三甲上課資料\第13週\ER301_SDK中文版\例程源码\WIN64 EXAMPLES\Sample code\C#\Mifare1K\bin\x86\Debug\Mifare1K.pdb
+D:\DATA\102上_基本通訊實習_進修學院子三甲上課資料\第13週\ER301_SDK中文版\例程源码\WIN64 EXAMPLES\Sample code\C#\Mifare1K\obj\x86\Debug\Mifare1K.csprojResolveAssemblyReference.cache
+D:\DATA\102上_基本通訊實習_進修學院子三甲上課資料\第13週\ER301_SDK中文版\例程源码\WIN64 EXAMPLES\Sample code\C#\Mifare1K\obj\x86\Debug\Mifare1K.Mifare_1K.resources
+D:\DATA\102上_基本通訊實習_進修學院子三甲上課資料\第13週\ER301_SDK中文版\例程源码\WIN64 EXAMPLES\Sample code\C#\Mifare1K\obj\x86\Debug\Mifare1K.Properties.Resources.resources
+D:\DATA\102上_基本通訊實習_進修學院子三甲上課資料\第13週\ER301_SDK中文版\例程源码\WIN64 EXAMPLES\Sample code\C#\Mifare1K\obj\x86\Debug\Mifare1K.csproj.GenerateResource.Cache
+C:\Users\YuFan\Desktop\上課資料\第8週\RFID\ER301_SDK中文版\例程源碼\WIN64 EXAMPLES\Sample code\C#\Mifare1K\obj\x86\Debug\Mifare1K.exe
+C:\Users\YuFan\Desktop\上課資料\第8週\RFID\ER301_SDK中文版\例程源碼\WIN64 EXAMPLES\Sample code\C#\Mifare1K\obj\x86\Debug\Mifare1K.pdb
+C:\Users\YuFan\Desktop\上課資料\第8週\RFID\ER301_SDK中文版\例程源碼\WIN64 EXAMPLES\Sample code\C#\Mifare1K\bin\x86\Debug\Mifare1K.exe
+C:\Users\YuFan\Desktop\上課資料\第8週\RFID\ER301_SDK中文版\例程源碼\WIN64 EXAMPLES\Sample code\C#\Mifare1K\bin\x86\Debug\Mifare1K.pdb
+C:\Users\YuFan\Desktop\上課資料\第8週\RFID\ER301_SDK中文版\例程源碼\WIN64 EXAMPLES\Sample code\C#\Mifare1K\obj\x86\Debug\Mifare1K.csprojResolveAssemblyReference.cache
+C:\Users\YuFan\Desktop\上課資料\第8週\RFID\ER301_SDK中文版\例程源碼\WIN64 EXAMPLES\Sample code\C#\Mifare1K\obj\x86\Debug\Mifare1K.Mifare_1K.resources
+C:\Users\YuFan\Desktop\上課資料\第8週\RFID\ER301_SDK中文版\例程源碼\WIN64 EXAMPLES\Sample code\C#\Mifare1K\obj\x86\Debug\Mifare1K.Properties.Resources.resources
+C:\Users\YuFan\Desktop\上課資料\第8週\RFID\ER301_SDK中文版\例程源碼\WIN64 EXAMPLES\Sample code\C#\Mifare1K\obj\x86\Debug\Mifare1K.csproj.GenerateResource.Cache
